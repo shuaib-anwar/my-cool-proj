@@ -1,0 +1,20 @@
+.hero-detail{
+	padding: 20px;
+	border: 1px solid #e3e3e3;
+	max-width: 600px;
+}
+
+label {
+  display: inline-block;
+  width: 5em;
+  margin: .5em 0;
+  color: #607D8B;
+  font-weight: bold;
+}
+
+input {
+  height: 2em;
+  font-size: 1em;
+  padding-left: .4em;
+  border: 1px solid #e3e3e3;
+}
